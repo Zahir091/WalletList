@@ -1,1 +1,2 @@
 # WalletList
+I used Java to create a program which simulates a wallet using object-oriented programming and linked lists. Each bill, coin, etc. is a unique object that can be added to the users wallet. The program processes a predefined data source for the wallet contents add various coins and bills to the wallet using Linked Lists to store the data. Then afterwards the program calculates the total value utilizing methods, and prints the total value of the wallet. 
