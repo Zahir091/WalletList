@@ -1,0 +1,1 @@
+let hg = prompt("WAHT IS NAME?");
